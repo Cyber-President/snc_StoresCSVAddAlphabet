@@ -1,0 +1,51 @@
+{
+    "_meta": {
+        "hash": {
+            "sha256": "bdaa9b367d41be9ab4409c58f1a976ecb0f49d1a2e7b3c95468840da02ae5008"
+        },
+        "pipfile-spec": 6,
+        "requires": {
+            "python_version": "3.9"
+        },
+        "sources": [
+            {
+                "name": "pypi",
+                "url": "https://pypi.org/simple",
+                "verify_ssl": true
+            }
+        ]
+    },
+    "default": {
+        "dill": {
+            "hashes": [
+                "sha256:78370261be6ea49037ace8c17e0b7dd06d0393af6513cc23f9b222d9367ce389",
+                "sha256:efb7f6cb65dba7087c1e111bb5390291ba3616741f96840bfc75792a1a9b5ded"
+            ],
+            "markers": "python_version >= '2.6' and python_version != '3.0'",
+            "version": "==0.3.3"
+        },
+        "klepto": {
+            "hashes": [
+                "sha256:8030f76c9ba147ac14178792180409d027cda159eecd7d2f7cda2dd4e0ba51a2",
+                "sha256:990f2cbc39a44765d5a438b63094543ebfdbd72b45e940e4188e8e73c3f854bd"
+            ],
+            "version": "==0.2.0"
+        },
+        "pox": {
+            "hashes": [
+                "sha256:013eb9e01e9a0670da881894925d73b2d4b32343471b22fa8c41e19e8b3f6367",
+                "sha256:f08b5453edf94fd6fdb28e043658cdd6151d5fd8384066a24fad8d4bd7e637c0"
+            ],
+            "version": "==0.2.9"
+        },
+        "pykakasi": {
+            "hashes": [
+                "sha256:4dbba3cb9698ecefa84e2b603ddfa8a0862edf371cdec6414fbac068e9127634",
+                "sha256:e0cf678b6d86454c524189aa6cc5fb97b45e49528917e992277faeb211f0d5a6"
+            ],
+            "index": "pypi",
+            "version": "==2.0.6"
+        }
+    },
+    "develop": {}
+}
